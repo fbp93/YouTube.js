@@ -1,5 +1,13 @@
 # Changelog
 
+## [6.4.1](https://github.com/LuanRT/YouTube.js/compare/v6.4.0...v6.4.1) (2023-09-18)
+
+
+### Performance Improvements
+
+* Cache deciphered n-params by info response ([#505](https://github.com/LuanRT/YouTube.js/issues/505)) ([d2959b3](https://github.com/LuanRT/YouTube.js/commit/d2959b3a55a5081295da4754627913933bbaf1e7))
+* **generator:** Remove duplicate checks in `isMiscType` ([#506](https://github.com/LuanRT/YouTube.js/issues/506)) ([68df321](https://github.com/LuanRT/YouTube.js/commit/68df3218580db10c9a0932c93ff2ce487526ff1e))
+
 ## [6.4.0](https://github.com/LuanRT/YouTube.js/compare/v6.3.0...v6.4.0) (2023-09-10)
 
 
